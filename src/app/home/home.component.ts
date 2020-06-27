@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+
 import basics from '../../assets/json/basics.json';
 import sponsors from '../../assets/json/sponsors.json';
 import partners from '../../assets/json/partners.json';
@@ -9,6 +10,7 @@ import speakers from '../../assets/json/speakers.json';
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.css']
 })
+
 export class HomeComponent implements OnInit {
 
   speakersList: any[] = [];
