@@ -1,53 +1,132 @@
 [
+  {
+    "sessionName": " How to prepare your child for entrepreneurship",
+    "sessionColor": "geekblue",
+    "sessionDescription": "You will learn about - grants and organizations available for entrepreneurship",
+    "sessionStartTime": "09:00",
+    "sessionEndTime": "10:00",
+    "speakerName": "Balaji",
+    "speakerRole": "Sankara College of Science and Commerce",
+    "speakerImage": "assets/speakers/Balaji.jpeg",
+    "speakerDescription": "grants and organizations available to for child entrepreneurship",
+    "linkedin": ""
+  },
+
     {
-        "sessionName": "PWA in 20 Minutes",
-        "sessionColor": "geekblue",
-        "sessionDescription": "Let's sit for an energizing session on Progressive Web Apps!",
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
-        "speakerName": "Praveen Thirumurugan",
-        "speakerRole": "SDE, Trimble Inc.",
-        "speakerImage": "assets/team/praveen.jpg",
-        "speakerDescription": "PWA Session",
-        "twitter": "https://twitter.com/thirupraveen18",
-        "linkedin": "https://linkedin.com/in/thirupraveen18",
-        "github": "https://github.com/thirupraveen18",
-        "link": "https://praveent.com"
-    },
-    {
-        "sessionName": "Android Jetpack 101",
+        "sessionName": "How to use social media effectively",
         "sessionColor": "green",
-        "sessionDescription": "Buzzed about android? Here comes Fahid to give you more insights on Jetpack!",
+        "sessionDescription": "You will learn about - Whatsapp & facebook",
         "sessionStartTime": "09:00",
         "sessionEndTime": "10:00",
-        "speakerName": "Fahid M",
-        "speakerRole": "SDE, Classworks India.",
-        "speakerImage": "assets/speakers/fahid.jpg",
-        "speakerDescription": "Android Jetpack",
-        "twitter": "https://twitter.com/thirupraveen18",
-        "linkedin": "https://linkedin.com/in/thirupraveen18",
-        "github": "https://github.com/thirupraveen18",
-        "link": "https://praveent.com"
+        "speakerName": "Kannan",
+        "speakerRole": "Sri Krishna Adithya College of Arts and Science",
+        "speakerImage": "assets/speakers/Kannan.jpeg",
+        "speakerDescription": "How to use social media effectively",
+        "linkedin": "https://www.linkedin.com/in/kannan-subramanian-93782b163/"
     },
     {
-        "sessionName": "Lunch 🍽🍕🍚",
-        "sessionColor": "#000000",
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00"
+      "sessionName": "How to use smart phones and laptops effectively",
+      "sessionColor": "geekblue",
+      "sessionDescription": "You will learn about - basics of operating smart phones and laptops",
+      "sessionStartTime": "09:00",
+      "sessionEndTime": "10:00",
+      "speakerName": "Resanth",
+      "speakerRole": "Sankara College of Science and Commerce",
+      "speakerImage": "assets/speakers/Resanth.jpeg",
+      "speakerDescription": "basics of operating smart phones and laptops",
+      "linkedin": "https://www.linkedin.com/in/resanthboopathy566/"
     },
     {
-        "sessionName": "Tensorflow in Google Cloud",
-        "sessionColor": "orange",
-        "sessionDescription": "New to Tensorflow? It has far more uses than you would imagine, know more about it.",
-        "sessionStartTime": "09:00",
-        "sessionEndTime": "10:00",
-        "speakerName": "Praveen Thirumurugan",
-        "speakerRole": "SDE, Trimble Inc.",
-        "speakerImage": "assets/team/praveen.jpg",
-        "speakerDescription": "Tensor Flow",
-        "twitter": "https://twitter.com/thirupraveen18",
-        "linkedin": "https://linkedin.com/in/thirupraveen18",
-        "github": "https://github.com/thirupraveen18",
-        "link": "https://praveent.com"
-    }
+    "sessionName": "Finance management",
+    "sessionColor": "orange",
+    "sessionDescription": "You will learn about - Personal finance and gathering funds for education",
+    "sessionStartTime": "09:00",
+    "sessionEndTime": "10:00",
+    "speakerName": "Epaphra",
+    "speakerRole": "Sri Krishna college of engineering and technology",
+    "speakerImage": "assets/speakers/Epaphra.jpg",
+    "speakerDescription": "Personal finance and gathering funds for education",
+    "linkedin": ""
+
+},
+{
+  "sessionName": "Other education stream for your child",
+  "sessionColor": "blue",
+  "sessionDescription": "You will learn about - career opportunities for your child",
+  "sessionStartTime": "09:00",
+  "sessionEndTime": "10:00",
+  "speakerName": "Sushma",
+  "speakerRole": "Coimbatore institute of technology",
+  "speakerImage": "assets/speakers/Sushma.jpeg",
+  "speakerDescription": "career opportunities for your child",
+  "linkedin": "https://www.linkedin.com/in/sushma-bala-03112000/"
+
+},
+{
+  "sessionName": "Online earning opportunities",
+  "sessionColor": "pink",
+  "sessionDescription": "You will learn about - Earning websites + trading , stock market , home based jobs",
+  "sessionStartTime": "09:00",
+  "sessionEndTime": "10:00",
+  "speakerName": "Deepthi",
+  "speakerRole": "Sri Krishna College of Technology",
+  "speakerImage": "assets/speakers/Deepthi.jpeg",
+  "speakerDescription": "Earning websites + trading , stock market , home based jobs",
+  "linkedin": "https://www.linkedin.com/in/deepthi-shree-0986b418b"
+
+},
+
+{
+  "sessionName": "How to connect with your child ",
+  "sessionColor": "geekblue",
+  "sessionDescription": "You will learn about - well being of your child ",
+  "sessionStartTime": "09:00",
+  "sessionEndTime": "10:00",
+  "speakerName": "Roselin",
+  "speakerRole": "KGISL Institute of technology",
+  "speakerImage": "assets/speakers/roselin.jpeg",
+  "speakerDescription": "Online privacy and safety for Social media and Online Banking",
+  "linkedin": "https://www.linkedin.com/in/arthi-roselin-86b23714a"
+
+},
+{
+  "sessionName": "Skilling through technology for your career",
+  "sessionColor": "green",
+  "sessionDescription": "You will learn about - applying technology to upgrade your career ",
+  "sessionStartTime": "09:00",
+  "sessionEndTime": "10:00",
+  "speakerName": "Naishadh",
+  "speakerRole": "",
+  "speakerImage": "assets/speakers/Naishadh.jpg",
+  "speakerDescription": "applying technology to upgrade your career",
+  "linkedin": ""
+
+},
+{
+  "sessionName": "Online privacy and safety",
+  "sessionColor": "geekblue",
+  "sessionDescription": "You will learn about - Online privacy and safety for Social media and Online Banking",
+  "sessionStartTime": "09:00",
+  "sessionEndTime": "10:00",
+  "speakerName": "Ranjith",
+  "speakerRole": "KGISL  Institute  of  technology",
+  "speakerImage": "assets/speakers/ranjith.jpeg",
+  "speakerDescription": "Online privacy and safety for Social media and Online Banking",
+  "linkedin": ""
+
+},
+
+{
+  "sessionName": "How to prepare your child for placements",
+  "sessionColor": "blue",
+  "sessionDescription": "You will learn about -recommendations/online platforms/freelancing for placements",
+  "sessionStartTime": "09:00",
+  "sessionEndTime": "10:00",
+  "speakerName": "Sree Sai Varsha",
+  "speakerRole": "KGISL Institute Of Technology",
+  "speakerImage": "assets/speakers/Sree Sai Varsha.jpeg",
+  "speakerDescription": "recommendations/online platforms/freelancing for your child placements",
+  "linkedin": "https://www.linkedin.com/in/sree-sai-varsha-s-830a931a5"
+
+}
 ]

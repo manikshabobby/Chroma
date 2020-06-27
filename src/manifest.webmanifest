@@ -1,7 +1,7 @@
 {
   "name": "GDG DevFest 2019",
   "short_name": "GDG DevFest",
-  "theme_color": "#F64060",
+  "theme_color": "#03942F",
   "background_color": "#ddd",
   "display": "standalone",
   "scope": "/",
